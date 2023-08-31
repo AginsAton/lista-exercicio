@@ -34,7 +34,10 @@ body{
 
 }
 
+.root {
+  display: none;
+}
+
 .exercicio4{
   display: none;
-
 }
