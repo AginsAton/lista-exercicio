@@ -9,3 +9,7 @@ function exercicio1() {
   <p>a sua nota: ${nota}</p>
 `
 }
+function exercicio2() {
+
+  
+}
